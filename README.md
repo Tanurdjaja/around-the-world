@@ -12,7 +12,7 @@
   </head>
   <body>
         <h1>Traveling the World</h1>
-        <h2>California</h2>
+        <h2>California, America</h2>
         <p> Where better to start than my home state California!</p>
       <h3>California Poppies</h3>
         <img
@@ -59,6 +59,43 @@
          width="250"
          />
     <p>Another interesting place to check out are the Painted Ladies, which were named so because of the different colors that each house was painted. These houses make for an unusual sight, but a splendid photo. You can also rest on the hills opposite of these houses and just enjoy the view. </p>
-    <h2> Canada </h2>
+    <h2> Alberta, Canada </h2>
+    <h3>Bow River</h3>
+    <img
+         src="https://cdn.glitch.com/6530bb02-c426-43ef-bcde-ea4b8b02e45f%2FIMG-4760%20(1).JPG?v=1601748742348"
+         ,
+         width="250"
+         />
+    <img
+         src="https://cdn.glitch.com/6530bb02-c426-43ef-bcde-ea4b8b02e45f%2FIMG-4785.JPG?v=1601748645456"
+         ,
+         width="250"
+         />
+    <p>Canada has many scenic places, one of them being Bow River. Bow River has a cerulean hue, adding to the other natural features of the area. There's also a lake at which the river winds into. Stop by, take a rest, and enjoy the view!</p>
+    <h3> Lake Louise</h3>
+    <img
+         src="https://cdn.glitch.com/6530bb02-c426-43ef-bcde-ea4b8b02e45f%2FIMG-4799.JPG?v=1601748622585"
+         ,
+         width="250"
+         />
+    <img
+         src="https://cdn.glitch.com/6530bb02-c426-43ef-bcde-ea4b8b02e45f%2FIMG-4798.JPG?v=1601750596771"
+         ,
+         width="250"
+         />
+    <img
+         src="https://cdn.glitch.com/6530bb02-c426-43ef-bcde-ea4b8b02e45f%2FIMG-4833%20(1).JPG?v=1601751451038"
+         ,
+         width="250"
+         />
+    <p> Another popular site is Lake Louise. Here, you can enjoy the vibrant gardens in front of the lake as well as enjoy the exquisite Fairmont Château hotel. Aside from just taking in the beauty, you could also kayak on the lake or even take a hike.</p>
+    <h3>Peyto Lake</h3>
+    <img
+         src="https://cdn.glitch.com/6530bb02-c426-43ef-bcde-ea4b8b02e45f%2FIMG-4827.JPG?v=1601748723319"
+         ,
+         width= "250"
+         />
+    <p>This view requires some exertion as you have hike uphill. Click <a href="https://www.todocanada.ca/city/banff/listing/peyto-lake-banff-national-park/#:~:text=Peyto%20lake%20is%20located%20on,paved%20path%20to%20the%20lookout.">here</a> for more information regarding visits to Peyto Lake.</p>
+    <h1>
   </body>
 </html>
