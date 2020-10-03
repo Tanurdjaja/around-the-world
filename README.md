@@ -42,7 +42,7 @@
           width="250"
         />
     <img
-         src="https://cdn.glitch.com/6530bb02-c426-43ef-bcde-ea4b8b02e45f%2FIMG-4569.JPG?v=1601699765343"
+         src="IMG-4569 (1).JPG"
          ,
          width="250"
          />
