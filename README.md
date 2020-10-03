@@ -76,6 +76,6 @@
     <h3>Peyto Lake</h3>
     <img
          src="Peyto Lake.PNG"
-         width= 250>
+         width= 500>
     <p>This view requires some exertion as you have hike uphill. Click <a href="https://www.todocanada.ca/city/banff/listing/peyto-lake-banff-national-park/#:~:text=Peyto%20lake%20is%20located%20on,paved%20path%20to%20the%20lookout.">here</a> for more information regarding visits to Peyto Lake.</p>
 
