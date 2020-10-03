@@ -15,12 +15,12 @@
         <h2>California, America</h2>
         <p> Where better to start than my home state California!</p>
       <h3>California Poppies</h3>
-        ![IMG-4833 (1)](https://user-images.githubusercontent.com/72100774/95001871-208e8d80-0583-11eb-823e-992cb17819c9.JPG)
+        <img
+             src="PoppyField1.PNG" width=250>
       <img
-           src="https://cdn.glitch.com/6530bb02-c426-43ef-bcde-ea4b8b02e45f%2FIMG-4282%20(1).jpg?v=1601699842164"
-           ,
-           width="250"
-           />
+           src="PoppyField2.PNG"
+           width=250
+           >
         <p>
           California's beautiful state flowers bloom every spring! You can check these
           <a
