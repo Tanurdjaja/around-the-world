@@ -30,22 +30,18 @@
         </p>
     <h3>San Francisco</h3>
         <img
-          src="https://cdn.glitch.com/6530bb02-c426-43ef-bcde-ea4b8b02e45f%2FIMG-4550.JPG?v=1601699728342"
-          ,
-          width="250"
-        />
+          src="LombardStreet.PNG"
+          width=250>
         <p>
           One of the more popular tourist cities is San Francisco. Take a drive through Lombard Street, the street may be crowded, but there's a beautiful sight and many fun turns.        </p>
         <img
-          src="IMG-4568 (1).JPG"
-          ,
-          width="250"
-        />
+          src="Flowertile.PNG"
+          width=250
+        >
     <img
-         src="IMG-4569 (1).JPG"
-         ,
-         width="250"
-         />
+         src="Snailtile.PNG"
+         width=250
+         >
         <p>
           Want to take a break from the iconic Lombard Street or Golden Gate Bridge? Enjoy art? Then you should definitely walk on the 16th Avenue tiled staircase! These are beautiful mosaics that piece together a lovely image.          
         </p>
