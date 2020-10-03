@@ -37,12 +37,12 @@
         <p>
           One of the more popular tourist cities is San Francisco. Take a drive through Lombard Street, the street may be crowded, but there's a beautiful sight and many fun turns.        </p>
         <img
-          src="IMG-4568 (1).jpg"
+          src="IMG-4568 (1).JPG"
           ,
           width="250"
         />
     <img
-         src="IMG-4569 (1).jpg"
+         src="IMG-4569 (1).JPG"
          ,
          width="250"
          />
