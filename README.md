@@ -42,7 +42,7 @@
           width="250"
         />
     <img
-         src="IMG-4569 (1).JPG"
+         src="IMG-4569 (1).jpg"
          ,
          width="250"
          />
