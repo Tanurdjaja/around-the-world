@@ -12,6 +12,7 @@
   </head>
   <body>
         <h1>Traveling the World</h1>
+    <p> Welcome to my travel page! Here you can see several views of areas that I have traveled to throughout the years. I hope that these places will encourage you to visit these areas as well or even provide you with inspiration on where your next trip will be! Enjoy!</p>
         <h2>California, America</h2>
         <p> Where better to start than my home state California!</p>
       <h3>California Poppies</h3>
@@ -77,5 +78,5 @@
     <img
          src="Peyto Lake.PNG"
          width= 500>
-    <p>This view requires some exertion as you have hike uphill. Click <a href="https://www.todocanada.ca/city/banff/listing/peyto-lake-banff-national-park/#:~:text=Peyto%20lake%20is%20located%20on,paved%20path%20to%20the%20lookout.">here</a> for more information regarding visits to Peyto Lake.</p>
+    <p>This view requires some exertion as you have to hike uphill, but I would say that the view was definitely worth it. Click <a href="https://www.todocanada.ca/city/banff/listing/peyto-lake-banff-national-park/#:~:text=Peyto%20lake%20is%20located%20on,paved%20path%20to%20the%20lookout.">here</a> for more information regarding visits to Peyto Lake.</p>
 
